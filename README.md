@@ -1,4 +1,4 @@
-## Timedeo 1.14 texture for 1.8, now in 1.12.2
+# Timedeo 1.14 texture for 1.8, now in 1.12.2
 
 2 years ago Timedeo released the "1.14 texture pack for 1.8.9", I love the 1.14 texture as well as "PvP aspect" of that pack. So I decided to convert it to 1.12.2
 
